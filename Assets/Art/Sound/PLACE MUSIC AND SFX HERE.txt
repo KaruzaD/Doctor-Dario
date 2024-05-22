@@ -1,0 +1,10 @@
+I have not included sound in this repository due to copywright issues.
+
+In order to have sound/music in the game, navigate to Assets/Resources/ScriptableObjects in the Editor and select the MusicClips/SFXClips resource. 
+
+Place music/sfx files in this folder.
+
+Select each corresponding track in the inspector and point it to the appropriate file.
+
+Test and build as normal.
+
