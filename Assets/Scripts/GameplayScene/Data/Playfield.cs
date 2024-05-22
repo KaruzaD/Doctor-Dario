@@ -258,7 +258,6 @@ public class Playfield : MonoBehaviour {
       MarkUnsupportedHelper(GetBlockAt(block.GridPosition + new Vector2Int(1, 0)));
       MarkUnsupportedHelper(GetBlockAt(block.GridPosition + new Vector2Int(0, -1)));
     }
-
   }
 
   private void MarkUnsupportedHelper(Block block) {
@@ -426,9 +425,6 @@ public class Playfield : MonoBehaviour {
     if (!isPartner && block.IsPartnerHorizontal && IsGrounded(block.Partner, true)) {
       return;
     }
-    //if (connectedBlocks.Contains(block)) {
-    //  return;
-    //}
 
     connectedBlocks.Add(block);
 

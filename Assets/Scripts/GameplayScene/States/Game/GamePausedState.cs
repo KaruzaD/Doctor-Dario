@@ -10,8 +10,6 @@ public class GamePausedState : State<GameManager> {
 
   public override void Enter() {
     base.Enter();
-
-
   }
 
   public override void Exit() {

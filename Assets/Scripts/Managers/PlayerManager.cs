@@ -32,8 +32,6 @@ public class PlayerManager : MonoBehaviour {
     player.Actions = new GameInputActions();
     player.Actions.devices = playerInput.devices;
 
-    //playerInput.uiInputModule = gameSetupInputModule;
-
     Add(player);
 
     Events.PlayerJoined(playerInput, player);
@@ -44,7 +42,6 @@ public class PlayerManager : MonoBehaviour {
     var player = playerInput.gameObject.GetComponent<Player>();
 
     Events.PlayerLeft(playerInput, player);
-    //Remove(player.ID);
   }
 
   public Dictionary<int, Player> Players { get; private set; } = new Dictionary<int, Player>();
