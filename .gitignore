@@ -74,6 +74,7 @@ crashlytics-build.properties
 
 /[Aa]ssets/Art/Sound/Music/*
 /[Aa]ssets/Art/Sound/SFX/*
+/[Aa]ssets/Art/Sound/*.meta
 
 
 
