@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bca22038916f554a85d6877813c13b4, type: 3}
+  m_Name: MusicClips
+  m_EditorClassIdentifier: 
+  title: {fileID: 8300000, guid: dd4231a3505bf974390b32b00ac9dcf4, type: 3}
+  setup: {fileID: 8300000, guid: 5b94e9a0219893740a9f1b930b34032a, type: 3}
+  fever: {fileID: 8300000, guid: 925c6739dcaab7b4e944d038bec1d5f0, type: 3}
+  feverClear: {fileID: 8300000, guid: 0edf4120cc424e542a7ac119cf50808f, type: 3}
+  chill: {fileID: 8300000, guid: 80896962746c7d540ac82dea2b2b1072, type: 3}
+  chillClear: {fileID: 8300000, guid: 7977a59fe88fef0499aa9436a99140dd, type: 3}
+  gameOver: {fileID: 8300000, guid: 885f3596e377ec44d90ec98681a97ea6, type: 3}
+  vsGameOver: {fileID: 8300000, guid: 52b9a6e7813086d4f9f3606b4f098dc1, type: 3}
+  level20Clear: {fileID: 8300000, guid: e49431ff71f2b1c498332107f3dc2c33, type: 3}
+  endingTheme: {fileID: 8300000, guid: ff904f2c58c341c4f8eb4397fedfe4f1, type: 3}

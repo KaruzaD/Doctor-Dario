@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fa037a232946154884d3fa709d5ea2f, type: 3}
+  m_Name: SFXClips
+  m_EditorClassIdentifier: 
+  blocksFalling: {fileID: 8300000, guid: 7dce4b66330c7644aa306a9c4edce770, type: 3}
+  pillLanded: {fileID: 8300000, guid: 7dce4b66330c7644aa306a9c4edce770, type: 3}
+  gamePaused: {fileID: 8300000, guid: afab07f5a5170d44ca859fc0f72c86e5, type: 3}
+  menuHorizontal: {fileID: 8300000, guid: 07edab7791ff198468002750b0d23567, type: 3}
+  menuVertiical: {fileID: 8300000, guid: cb59c495d0acc424fac1195e8ec29918, type: 3}
+  pillMoveHorizontal: {fileID: 8300000, guid: 07edab7791ff198468002750b0d23567, type: 3}
+  pillRotated: {fileID: 8300000, guid: 96c0ae3e5cbce63488730202d49aebf6, type: 3}
+  player1BlocksCleared: {fileID: 8300000, guid: 6502e09cd00ca2d44a79ff26be706687, type: 3}
+  player2BlocksCleared: {fileID: 8300000, guid: af92bf5d6bbb2a34a8210390b06b08e2, type: 3}
+  player3BlocksCleared: {fileID: 0}
+  player4BlocksCleared: {fileID: 0}
+  player1Snowed: {fileID: 8300000, guid: 243d89f070ae7c34da9d87bb8b6a2c9b, type: 3}
+  player2Snowed: {fileID: 8300000, guid: fef65b5167fc7d64ba34512fbcf6f3bf, type: 3}
+  player3Snowed: {fileID: 0}
+  player4Snowed: {fileID: 0}
