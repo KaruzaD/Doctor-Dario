@@ -1,6 +1,7 @@
 # Doctor-Dario
 A 1-4 player version of the classic NES game, Dr. Mario, built from the ground up in the Unity Game Engine. 
 For information on the original, see [Dr. Mario - Wikipedia](https://en.wikipedia.org/wiki/Dr._Mario).
+To try it yourself, check out the [Unity Play Link](https://play.unity.com/mg/other/web-7de52).
 
 # Game Setup Screen
 - Virus Level determines how many viruses will spawn
@@ -24,19 +25,19 @@ I have not supplied music or sound effects, but the code is all set up for them.
 
 # Controls
 The game works with either keyboard or controllers. To play multiplayer, connect up to 3 controllers.
-  Keyboard or Controller    Action
+- Keyboard or Controller  |  Action
 - Menu Controls:
-  - W/A/S/D or D-Pad    Move the cursor
-  - Enter or A    Menu forward
-  - Return/Esc or B    Menu backward
-  - Hold Return/Esc or B    Drop out player
-  - Any Button    Add player
+  - W/A/S/D or D-Pad  |  Move the cursor
+  - Enter or A  |  Menu forward
+  - Return/Esc or B  |  Menu backward
+  - Hold Return/Esc or B  |  Drop out player
+  - Any Button  |  Add player
 - Game controls
-  - Enter or Start    Pause/Unpause
-  - Hold Esc/Return or B while paused    Return to game setup screen
-  - A/D or Left/Right    Move pill left/right
-  - S or Down    Move pill down faster
-  - Tab or Y    Show/Hide pill drop shadow
+  - Enter or Start  |  Pause/Unpause
+  - Hold Esc/Return or B while paused  |  Return to game setup screen
+  - A/D or Left/Right  |  Move pill left/right
+  - S or Down  |  Move pill down faster
+  - Tab or Y  |  Show/Hide pill drop shadow
 
 # Disclosure
 Nearly all artwork is recreated by me from the NES game and is not my original work.
